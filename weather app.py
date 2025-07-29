@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Replace this with your actual API key
-API_KEY = "1946d4d3e05eb6257625ad675474a174"
+API_KEY = "----------------------------"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 # Function to get weather data
@@ -20,8 +20,8 @@ def get_weather(city):
 
 # Streamlit App
 def main():
-    st.set_page_config(page_title="🌦️ Weather App", layout="centered")
-    st.title("🌤️ Simple Weather App")
+    st.set_page_config(page_title=" Weather App", layout="centered")
+    st.title("Simple Weather App")
 
     city = st.text_input("Enter a city name", "Delhi")
 
