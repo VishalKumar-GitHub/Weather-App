@@ -22,8 +22,7 @@ A clean and minimal weather app built using **Python**, **Streamlit**, and the *
 
 ## 📸 Preview
 
-<img width="1890" height="614" alt="Screenshot 2025-07-29 004306" src="https://github.com/user-attachments/assets/a018b336-acaf-4ba7-a531-25de1c1b02a2" />
-
+<img width="1915" height="1038" alt="image" src="https://github.com/user-attachments/assets/e443580c-a6a1-4a84-9ab9-940560f7af59" />
 
 ---
 
