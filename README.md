@@ -34,7 +34,6 @@ cd weather-app
 pip install -r requirements.txt
 streamlit run weather_app.py
 
-----
 
 ## About Me
 
